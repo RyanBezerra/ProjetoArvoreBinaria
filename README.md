@@ -1,4 +1,4 @@
-# Editor de Árvore Binária de Busca em C++
+# Ei gabriel, tem direitos autorais no meu github tá, fica esperto gabriel sen pai UwU
 
 Este é um programa em C++ que implementa um editor de árvore binária de busca. A árvore é usada para armazenar informações de alunos, incluindo o Registro Geral (RGM) e o nome. O programa permite inserir, remover, pesquisar e esvaziar a árvore, além de exibir a árvore graficamente em ordem pré, in e pós.
 
